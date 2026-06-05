@@ -1,6 +1,5 @@
-ipykernel
 numpy
 pandas
 nltk
 kagglehub
-gensim
+ipykernel
