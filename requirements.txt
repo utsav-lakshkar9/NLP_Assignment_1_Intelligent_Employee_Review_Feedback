@@ -3,3 +3,5 @@ pandas
 nltk
 kagglehub
 ipykernel
+scikit-learn
+matplotlib
