@@ -5,3 +5,5 @@ kagglehub
 ipykernel
 scikit-learn
 matplotlib
+gensim
+spacy
