@@ -5,5 +5,5 @@ kagglehub
 ipykernel
 scikit-learn
 matplotlib
-gensim
+git+https://github.com/RaRe-Technologies/gensim.git
 spacy
