@@ -1,4 +1,4 @@
-# NLP_Assignment_1_Employee_Review
+# NLP Assignment 1 Employee Review
 
 ## Title
 Intelligent Employee Feedback Analysis and Sentiment Prediction using NLP
